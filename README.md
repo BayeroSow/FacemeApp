@@ -23,8 +23,16 @@ This app assumes there is only one user for each facial detection. user images i
 - Converting the image to data
 - Finding a match
 
-# Project
+### Project
+
 - name: Faceme
 - description: textfield
 - createdAt: timestamp
 - updatedAt: timestamp
+
+### Log
+- text: textfield
+- createdAt: timestamp
+- updatedAt: timestamp
+- project: FK
+
