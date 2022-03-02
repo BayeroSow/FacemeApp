@@ -35,4 +35,3 @@ This app assumes there is only one user for each facial detection. user images i
 - createdAt: timestamp
 - updatedAt: timestamp
 - project: FK
-
