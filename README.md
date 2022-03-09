@@ -10,7 +10,7 @@ This is a facial recognition system that can be used to identify people in photo
 
 # Tech Stack
 - Visual Studio Code
-- Tensorflow, 
+- Tensorflow
 - Kivy
 
 # Schema
