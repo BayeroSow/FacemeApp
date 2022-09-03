@@ -2,8 +2,8 @@
 This is a facial recognition system that can be used to identify people in photos, videos, or in real-time.
 
 # Requirements
-- it can be use to unlock phones
-- it can be to tracking student or worker attendance
+- it can be use to unlock smart phones
+- it can be to tracking students or workers attendance
 - it can be use to Recognizing drivers
 - it can be use for healthcare porpse
 
