@@ -28,7 +28,6 @@ class CamApp(App):
         self.web_cam = Image(size_hint=(1,.8))
         self.button = Button(text="Verify", on_press=self.verify, size_hint=(1,.1))
         self.verification_label = Label(text="Verification Uninitiated", size_hint=(1,.1))
-        slef.verification_label = label(text="verification uninitiated")
 
         # Add itemss to layout
         layout = BoxLayout(orientation='vertical')
