@@ -105,7 +105,7 @@ class CamApp(App):
         verification = detection / len(os.listdir(os.path.join('application_data', 'verification_images')))
         verified = verification > verification_threshold
 
-        # Set verification 
+        # Set verification text
         self.verification_label.text = 'Verified' if verified == True else 'Unverified'
 
         Logger.info(results)
