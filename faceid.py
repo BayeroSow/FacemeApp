@@ -20,7 +20,7 @@ import os
 import numpy as np
 
 
-# Build app and layout
+# Build app and layout components
 class CamApp(App):
 
     def build(self):
