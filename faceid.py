@@ -1,4 +1,4 @@
-# Import kivy dependencies 
+# Import kivy dependencies first 
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 
