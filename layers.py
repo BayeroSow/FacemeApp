@@ -15,3 +15,4 @@ class L1Dist(Layer):
     # Magic happens here - similarity calculation
     def call(self, input_embedding, validation_embedding):
         return tf.math.abs(input_embedding - validation_embedding)
+        return 
